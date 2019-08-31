@@ -198,3 +198,7 @@ h3 iframe{
     font-size: 13px !important;
     font-style: italic;
 }
+
+.fix-row{
+    margin-bottom: 0px !important;
+}
